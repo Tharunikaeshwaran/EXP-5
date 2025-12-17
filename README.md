@@ -29,6 +29,7 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 Line regulation:
+
 |S.NO|INPUT VOLTAGE(V)|OUTPUT VOLTAGE(V)|
 |:----:|:-------------:|:---------------:|
  |1|12.0|5.14|
