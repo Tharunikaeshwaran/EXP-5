@@ -75,7 +75,7 @@ load regulation:
     <th>t (ms)</th>
   </tr>
   <tr>
-  <td>50</td>
+<td>50</td>
     <td>20</td>
     <td>50</td>
     <td>5</td>
@@ -86,10 +86,12 @@ load regulation:
 
 circuit diagram:
 line regulation:
+
 ![WhatsApp Image 2025-12-17 at 08 34 09_06ba847a](https://github.com/user-attachments/assets/394ae67c-ce2a-48df-8e11-e2e0451611a6)
 
 
 load regulation:
+
 ![WhatsApp Image 2025-12-17 at 08 34 09_a6a425bc](https://github.com/user-attachments/assets/a8caed6c-c586-49a8-9be4-a107250dc541)
 
 
