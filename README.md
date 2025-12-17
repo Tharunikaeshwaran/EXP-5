@@ -29,60 +29,24 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 Line regulation:
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <th rowspan="2" colspan="2">Input Voltage</th>
-    <th colspan="4">Output Voltage</th>
-  </tr>
-  <tr>
-    <th colspan="2">Without Filter</th>
-    <th colspan="2">With Filter</th>
-  </tr>
-  <tr>
-    <th>Vm (V)</th>
-    <th>t (ms)</th>
-    <th>Vm (V)</th>
-<th>t (ms)</th>
-    <th>Vm (V)</th>
-    <th>t (ms)</th>
-  </tr>
-  <tr>
-    <td>100</td>
-    <td>20</td>
-    <td>100</td>
-    <td>10</td>
-    <td>100V, 5V</td>
-    <td>5 ms, 25 ms</td>
-  </tr>
-</table>
+|S.NO|INPUT VOLTAGE(V)|OUTPUT VOLTAGE(V)|
+|:----:|:-------------:|:---------------:|
+ |1|12.0|5.14|
+ |2|13.0|5.16|
+ |3|14.0|5.17|
+ |4|15.0|5.17|
+ |5|16.0|5.18|
+ |6|17.0|5.19|
 
 load regulation:
-<table border="1" cellspacing="0" cellpadding="6">
-  <tr>
-    <th rowspan="2" colspan="2">Input Voltage</th>
-    <th colspan="4">Output Voltage</th>
-  </tr>
-  <tr>
-    <th colspan="2">Without Filter</th>
-    <th colspan="2">With Filter</th>
-  </tr>
-  <tr>
-    <th>Vm (V)</th>
-    <th>t (ms)</th>
-    <th>Vm (V)</th>
-    <th>t (ms)</th>
-    <th>Vm (V)</th>
-    <th>t (ms)</th>
-  </tr>
-  <tr>
-<td>50</td>
-    <td>20</td>
-    <td>50</td>
-    <td>5</td>
-    <td>50, 46</td>
-    <td>5 ms, 14 ms</td>
-  </tr>
-</table>
+|S.NO|LOAD RESISTANCE({\Omega})|OUTPUT VOLTAGE(V)|
+|:----:|:-------------:|:---------------:|
+ |1|100|5.19|
+ |2|200|5.20|
+ |3|300|5.20|
+ |4|400|5.20|
+ |5|500|5.20|
+ |6|600|5.21|
 
 circuit diagram:
 line regulation:
